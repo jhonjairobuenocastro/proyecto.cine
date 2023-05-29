@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(240, 6, 6);
+    font-size: 30px;
+}
+.titulo{
+color: rgb(0, 50, 158);
+}
+
+.contenedor{
+margin: 300px;
+height: 300px; ;
+}

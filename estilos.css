@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.titulo{
+color: rgb(255, 255, 255);
+}
+
+.contenedor{
+margin: 200px;
+height: 400px;
+border-bottom: 100px;
+padding: 45px;
+background-color: rgb(50, 223, 35);
+
+}
+.titulo{
+color: rgb(2, 4, 83);
+}
